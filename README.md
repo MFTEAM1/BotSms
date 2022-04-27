@@ -3,10 +3,15 @@
 --ติดตั้งคำสั่งทั้งหมด--
 
 pkg update
+
 pkg upgrade
+
 pkg install git
+
 pkg install python
+
 pip install requests
+
 pip install discord
 
 --รันสคริป--
